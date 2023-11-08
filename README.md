@@ -1,2 +1,0 @@
-# Weatherbot
- Air Quality Bot
